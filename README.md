@@ -127,6 +127,9 @@ For transparency into our release cycle and in striving to maintain backward com
 - <https://twitter.com/fat>
 - <https://github.com/fat>
 
+## This section to confirm functionality with github installation
+**John Ryan**
+Added 3/15/15 11:51 PM
 
 
 ## Copyright and license
